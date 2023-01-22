@@ -15,7 +15,7 @@ Let's start with the usual nmap :
 ````bash
 nmap 10.10.86.212 -A
 ````
-![9daadd6045bf179429e7d7c796c5cea0.png](../_resources/672bae36bc5044d4947251d7d960f56e)
+![9daadd6045bf179429e7d7c796c5cea0.png](./_resources/672bae36bc5044d4947251d7d960f56e)
 We can see that ports 22, 80 and 443 are open.
 
 ## Step 3
